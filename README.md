@@ -1,3 +1,4 @@
+Aisha G.S Mafuta NCE/SCI/158/23
 # Average-calculator-
 import java.util.Scanner; // Scanner class for taking input
 //Create class that's for all functions in the code 

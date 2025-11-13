@@ -21,6 +21,6 @@ public class ComputeAverage {
         // Display results
         System.out.println("The average of the numbers is: " + average);
 
-        input.close()
+        input.close();
         }
           }
